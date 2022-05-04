@@ -1,3 +1,5 @@
+import "./SentimentAnalysis.css"
+
 export default function SentimentAnalysis() {
     return (
         <div id="analysis">

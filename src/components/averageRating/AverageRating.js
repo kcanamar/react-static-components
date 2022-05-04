@@ -1,3 +1,4 @@
+import "./AverageRating.css"
 export default function AverageRating() {
     return (
         <div id="rating">

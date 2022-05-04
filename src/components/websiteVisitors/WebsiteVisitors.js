@@ -1,3 +1,5 @@
+import "./WebsiteVisitors.css"
+
 export default function WebsiteVisitors() {
     return (
         <div id="visitors">
